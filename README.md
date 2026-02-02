@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Chugh</h1>
-<h3 align="center">React, Next.js, and Node.js developer who builds clean, efficient web apps (and occasionally stares at bugs like they owe me an explanation). Passionate about writing code that actually works — most of the time on purpose.</h3>
+<h3 align="center">React, Next.js, and Node.js developer who builds clean, efficient web apps (and occasionally stares at bugs like they owe me an explanation). Passionate about writing code that actually works.... most of the time on purpose.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
